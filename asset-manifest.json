@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/portofire/static/css/main.c98ecbd3.css",
+    "main.js": "/portofire/static/js/main.5870921f.js",
+    "static/js/453.abf445b6.chunk.js": "/portofire/static/js/453.abf445b6.chunk.js",
+    "static/media/341721-Kokushibo-Kokushibou-Upper-Moon-One-Demon-Slayer-Kimetsu-no-Yaiba-Anime-Kimetsu-no-Yaiba.jpg": "/portofire/static/media/341721-Kokushibo-Kokushibou-Upper-Moon-One-Demon-Slayer-Kimetsu-no-Yaiba-Anime-Kimetsu-no-Yaiba.57d6711d14dd983209ae.jpg",
+    "static/media/BMW-Logo-PNG.png": "/portofire/static/media/BMW-Logo-PNG.70e9755c646f74d1f359.png",
+    "static/media/zTX5nM7ec.png": "/portofire/static/media/zTX5nM7ec.72e6c98e5501d037da6b.png",
+    "static/media/animal-logo-png-lion-king-icon-logo-animal-pride-wild-head-532.png": "/portofire/static/media/animal-logo-png-lion-king-icon-logo-animal-pride-wild-head-532.5bbf018952d558f9f7b4.png",
+    "index.html": "/portofire/index.html",
+    "main.c98ecbd3.css.map": "/portofire/static/css/main.c98ecbd3.css.map",
+    "main.5870921f.js.map": "/portofire/static/js/main.5870921f.js.map",
+    "453.abf445b6.chunk.js.map": "/portofire/static/js/453.abf445b6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c98ecbd3.css",
+    "static/js/main.5870921f.js"
+  ]
+}
